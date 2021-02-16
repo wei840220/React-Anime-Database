@@ -1,0 +1,11 @@
+.search-box {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 5px 15px;
+    width: 36vw;
+    line-height: 26px;
+    background-color: #f0f1ff;
+    color: #515675;
+    border-radius: 999px;
+}
